@@ -232,6 +232,7 @@
 ||getfedora.org
 ||getui.com
 ||gfan.com
+||gitclub.cn
 ||gitee.com
 ||gmw.cn
 ||golaravel.com
