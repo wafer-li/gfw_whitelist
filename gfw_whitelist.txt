@@ -50,6 +50,7 @@
 ||360.cn
 ||360.com
 ||360buy.com
+||360buyimg.com
 ||360doc.com
 ||36kr.com
 ||3dmgame.com
@@ -287,6 +288,7 @@
 ||ip-api.com
 ||ipip.net
 ||iplaysoft.com
+||iqihang.com
 ||iqing.in
 ||iqiyi.com
 ||it168.com
@@ -326,6 +328,7 @@
 
 ! L
 ||lackar.com
+||lagou.com
 ||lany.me
 ||lanyus.com
 ||laravel-china.org
@@ -389,6 +392,7 @@
 ||netseer.com
 ||nga.cn
 ||ngacn.cc
+||nowcoder.net
 ||nuomi.com
 ||nvidia.cn
 
@@ -498,6 +502,7 @@
 ||t.tt
 ||tanx.com
 ||taobao.com
+||taobao.org
 ||taobaocdn.com
 ||tbcdn.cn
 ||tencent.com
@@ -611,6 +616,7 @@
 ||zhaopin.com
 ||zhihu.com
 ||zhimg.com
+||zhipin.com
 ||zhiziyun.com
 ||zhujike.com
 ||zimuzu.tv
