@@ -122,6 +122,7 @@
 ||baidustatic.com
 ||baozoumanhua.com
 ||battlenet.com.cn
+||bcy.net
 ||bdimg.com
 ||bdstatic.com
 ||behe.com
