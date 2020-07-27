@@ -380,6 +380,7 @@
 ! L
 ||lackar.com
 ||lagou.com
+||lanhuapp.com
 ||lany.me
 ||lanyus.com
 ||lanzous.com
