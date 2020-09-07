@@ -388,6 +388,7 @@
 ||lbesec.com
 ||le.com
 ||leancloud.cn
+||leetcode-cn.com
 ||lenovo.com.cn
 ||lenovomobile.cn
 ||lenovomobile.com
@@ -460,6 +461,7 @@
 ||newsmth.net
 ||nga.cn
 ||ngacn.cc
+||nowcoder.com
 ||nowcoder.net
 ||nuomi.com
 ||nvidia.cn
