@@ -181,6 +181,7 @@
 ||cli.im
 ||cloudinary.com
 ||cloudxns.net
+||cn.engadget.com
 ||cnbeta.com
 ||cnblogs.com
 ||cnki.net
@@ -382,6 +383,7 @@
 ||lackar.com
 ||lagou.com
 ||lanhuapp.com
+||lanjinger.com
 ||lany.me
 ||lanyus.com
 ||lanzous.com
@@ -712,6 +714,7 @@
 ||youth.cn
 ||yunpian.com
 ||yunshipei.com
+||yuwantech.com
 ||yy.com
 
 ! Z
