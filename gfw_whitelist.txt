@@ -102,6 +102,7 @@
 ||aixifan.com
 ||aizhan.com
 ||akamaihd.net
+||akamaized.net
 ||akarin.me
 ||akarin.top
 ||alibaba.com
@@ -704,6 +705,8 @@
 ||ydstatic.com
 ||yecdn.com
 ||yesky.com
+||yfscdn.net
+||yfsvdn.net
 ||yiche.com
 ||yinxiang.com
 ||ykimg.com
