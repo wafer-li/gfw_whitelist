@@ -10,9 +10,12 @@
 /.+sh.cn/
 /113\.55\.\d+\.\d+/
 /120\.77\.\d+\.\d+/
+/175\.25\.24\.72/
 /183\.60\.187\.110/
 /192\.168\.\d+\.\d+/
 /210\.34\.4\.28/
+/47\.74\.179\.164/
+/47\.74\.185\.18/
 
 ! Subdomain
 |https://az764295.vo.msecnd.net
@@ -69,6 +72,7 @@
 ||51cto.com
 ||51job.com
 ||52pojie.cn
+||52yuwan.com
 ||56.com
 ||58.com
 ||58pic.com
@@ -654,6 +658,7 @@
 ||vip.com
 ||vmall.com
 ||voidcn.com
+||vostic.net
 ||vpgame.com
 ||vpgcdn.com
 ||vpsmm.com
