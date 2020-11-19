@@ -375,6 +375,7 @@
 ||kan300.com
 ||kancloud.cn
 ||kankan.com
+||ke.com
 ||kekenet.com
 ||kf5.com
 ||kingsoft.com
@@ -403,6 +404,7 @@
 ||lenovomobile.com
 ||letv.com
 ||letvimg.com
+||lianjia.com
 ||liaoxuefeng.com
 ||liepin.com
 ||linuxidc.com
