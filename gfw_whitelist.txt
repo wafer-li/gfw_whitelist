@@ -598,6 +598,7 @@
 ||steamdb.info
 ||steampowered.com
 ||suning.com
+||svga.io
 ||swapteam.cn
 ||sznews.com
 
