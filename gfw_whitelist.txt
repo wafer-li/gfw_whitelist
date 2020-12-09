@@ -110,6 +110,7 @@
 ||akamaized.net
 ||akarin.me
 ||akarin.top
+||aliapp.org
 ||alibaba.com
 ||alicdn.com
 ||alimama.com
