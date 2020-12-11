@@ -395,6 +395,7 @@
 ||lany.me
 ||lanyus.com
 ||lanzous.com
+||lanzoux.com
 ||laravel-china.org
 ||lbesec.com
 ||le.com
@@ -687,6 +688,7 @@
 ||wisenjoy.com
 ||wiz.cn
 ||wodemo.com
+||woozooo.com
 ||woyoo.com
 
 ! X
