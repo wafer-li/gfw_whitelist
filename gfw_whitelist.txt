@@ -650,6 +650,7 @@
 ||ubuntu.org.cn
 ||uisdc.com
 ||umeng.com
+||umetrip.com
 ||upaiyun.com
 ||upyun.com
 ||ustc.edu.cn
