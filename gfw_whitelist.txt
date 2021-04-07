@@ -438,6 +438,7 @@
 ||mcbbs.net
 ||mdui.org
 ||mediav.com
+||meican.com
 ||meiqia.com
 ||meituan.com
 ||meituan.net
@@ -508,6 +509,7 @@
 ||phonegap100.com
 ||phpcomposer.com
 ||pingwest.com
+||planetmeican.com
 ||playubuntu.cn
 ||plu.cn
 ||ppgame.com
