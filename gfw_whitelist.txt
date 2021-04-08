@@ -6,7 +6,9 @@
 /.+chaoxing.com/
 /.+edu.cn/
 /.+gov.cn/
+/.+meican.+/
 /.+net.cn/
+/.+planetmeican.+/
 /.+sh.cn/
 /113\.55\.\d+\.\d+/
 /120\.77\.\d+\.\d+/
